@@ -1,4 +1,4 @@
-[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Data_Analysis.jpg)]
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Data_Analysis.jpg)]
 <h1 align="center">Hello world! 👋, I'm Emad</h1>
 <h3 align="center">A Software Engineer turned Data analyst. I like to play with data to solve real world problems</h3>
 
