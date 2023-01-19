@@ -6,8 +6,6 @@
 
 <h2>👩‍🎨 Brief About Me:</h2>
 
-Transition to Data Analytics in Feb 2021.
- Learning WorldQuant University Applied Data Science(Sep-Dec 21)
 <ul>
   <li>A Computer Software Engineer with 3 years of professional experience.</li>
   <li>Working as Data Analyst since 2019</li>
