@@ -9,11 +9,11 @@
 <ul>
   <li>A Computer Software Engineer with 3 years of professional experience.</li>
   <li>Working as Data Analyst since 2019</li>
-  <li>Currently working as Data Offer at Laundrex Dry Cleaning Service Dubai,UAE</li>
+  <li>Currently working as Data Clerk in GAC Group Holding (Dubai) Gulf Agency Company,UAE</li>
 </ul>
 <h2>🧮 Skills and Tools:</h2>
 <ul>
-  <li>Tools:  Microsoft Excel, SQL, Microsoft Power BI , Python , Google Sheets.</li>
+  <li>Tools:  Microsoft Excel, SQL, Microsoft Power BI , Google Sheets.</li>
   <li>Skills: ETL, Data mining, Data Wrangling, Data Analyzation, Data Visualization</li>
 </ul
 
